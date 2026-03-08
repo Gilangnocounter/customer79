@@ -6,7 +6,7 @@ const applySettingsButton = document.getElementById('applySettings');
 let settings = {
     music: 'music/music.mp3',
     countdown: 3,
-    matrixText: 'HAPPYBIRTHDAY',
+    matrixText: 'HAPPYWHITEDAY',
     matrixColor1: '#ff69b4', // Màu pink mẫu
     matrixColor2: '#ff1493', // Màu pink mẫu
     sequence: 'HAPPY|WHITE|DAY|MY|LOVE|🤍',
@@ -374,7 +374,7 @@ function initializeDefaultSettings() {
     window.settings = {
         music: './music/music.mp3',
         countdown: 3,
-        matrixText: 'HAPPYBIRTHDAY',
+        matrixText: 'HAPPYWHITEDAY',
         matrixColor1: '#ffffff', // Màu pink mẫu
         matrixColor2: '#ffffff', // Màu pink mẫu
         sequence: 'HAPPY|WHITE|DAY|MY|LOVE|🤍',

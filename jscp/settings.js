@@ -9,10 +9,10 @@ let settings = {
     matrixText: 'HAPPYBIRTHDAY',
     matrixColor1: '#ff69b4', // Màu pink mẫu
     matrixColor2: '#ff1493', // Màu pink mẫu
-    sequence: 'HAPPY|BIRTHDAY|TO|NADIA|🩷',
+    sequence: 'HAPPY|WHITE|DAY|MY|LOVE|🤍',
     // sequence: 'HAPPY|BIRTHDAY|TO|ANITA|❤',
     sequenceColor: '#ff69b4', // Màu pink mẫu
-    gift: './image/happy3.gif',
+    gift: './image/happy4.gif',
     enableBook: true,
     pages: [
         // Cover
@@ -26,7 +26,7 @@ let settings = {
         },
         { 
             image: './image/photos/b2.png', 
-            content: 'Happy birthday Love❤️' 
+            content: 'Every day with you feels special, but today i want to celebrate the love we share' 
         },
 
         // Lembar 2
@@ -35,7 +35,7 @@ let settings = {
         },
         { 
             image: './image/photos/b4.png', 
-            content: 'Aku bersyukur bisa kenal kamu. Semoga semua yang kamu impikan pelan-pelan jadi nyata. Terima kasih sudah jadi kamu yang aku kenal sekarang.' 
+            content: 'Thank you for being the calm in my chaos and the light in my darkest days' 
         }
     
         // Lembar 3
@@ -375,12 +375,12 @@ function initializeDefaultSettings() {
         music: './music/music.mp3',
         countdown: 3,
         matrixText: 'HAPPYBIRTHDAY',
-        matrixColor1: '#ff69b4', // Màu pink mẫu
-        matrixColor2: '#ff1493', // Màu pink mẫu
-        sequence: 'HAPPY|BIRTHDAY|TO|NADIA|🩷',
+        matrixColor1: '#ffffff', // Màu pink mẫu
+        matrixColor2: '#ffffff', // Màu pink mẫu
+        sequence: 'HAPPY|WHITE|DAY|MY|LOVE|🤍',
         // sequence: 'HAPPY|BIRTHDAY|TO|ANITA|❤',
-        sequenceColor: '#ff69b4', // Màu pink mẫu
-        gift: './image/happy3.gif',
+        sequenceColor: '#fffeff', // Màu pink mẫu
+        gift: './image/happy4.gif',
         enableBook: true,
         enableHeart: true,
         isSave: false,  
@@ -397,7 +397,7 @@ function initializeDefaultSettings() {
             },
             { 
                 image: './image/photos/b2.png', 
-                content: 'Happy birthday Love❤️' 
+                content: 'Every day with you feels special, but today i want to celebrate the love we share' 
             },
         
             // Lembar 2
@@ -406,7 +406,7 @@ function initializeDefaultSettings() {
             },
             { 
                 image: './image/photos/b4.png', 
-                content: 'Aku bersyukur bisa kenal kamu. Semoga semua yang kamu impikan pelan-pelan jadi nyata. Terima kasih sudah jadi kamu yang aku kenal sekarang.' 
+                content: 'Thank you for being the calm in my chaos and the light in my darkest days' 
             }
         
             // // Lembar 3
